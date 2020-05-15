@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html>
+	<body>
+
+  <h1>Styles Conference</h1>
+  <h3>August 24&ndash;26th &mdash; Chicago, IL</h3>
+  <a href="second.html" target="_blamk"><img height="50%" width ="30%"src="BRIJO.png" alt ="suite"/></a>
+ <br> <a href="https://www.google.com/search?client=ubuntu&channel=fs&q=hlo&ie=utf-8&oe=utf-8
+  "target="_blank">Shay</a><br>
+  <a href="mailto:staalway@gmail.com?subject=Reaching&body=How are you">Email Me</a>
+ <table  border="10" bordercolor="red">
+  <tr>
+  <th>row1</th>
+  <th>row2</th>
+  <th>row3</th>
+  <th>row4</th></tr>
+  <tr>
+	  <th rowspan="2">cancer</th>
+  <td>stomach</td>
+  <td>123</td>
+  <td>233</td></tr>
+  <tr><td>liver</td>
+  <td>222</td><td>666</td></tr></table>
+
+</body>
+</html>
